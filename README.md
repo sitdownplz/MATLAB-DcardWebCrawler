@@ -3,6 +3,8 @@
 此程式碼使用 Dcard API 做文章資料撈取以及使用開源中文斷詞模組 jieba
 將撈取的文章內容做簡單視覺化
 
+![script snapshot](https://i.imgur.com/zt8XE0P.png)
+
 ---
 版本號 Version Dev.0 (測試版本 R2021a)
 ---
