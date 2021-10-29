@@ -24,6 +24,7 @@
 #### MATLAB 支援版本
     - R2020b
     - R2021a
+    - R2021b
 #### Python 版本
     Python 3.7
 ### 其他 (Ref.)
