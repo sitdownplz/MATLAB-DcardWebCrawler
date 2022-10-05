@@ -25,8 +25,11 @@
     - R2020b
     - R2021a
     - R2021b
+    - R2022a
+    - R2022b
 #### Python 版本
     Python 3.7
+    Python 3.8
 ### 其他 (Ref.)
  狄卡 Dcard API: 
  https://www.dcard.tw/service/api/v2/
