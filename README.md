@@ -1,5 +1,7 @@
 # MATLAB 狄卡文章爬蟲 (Dcard Web Crawler)
-
+[2023/04/18]
+* 因 Dcard API 使用 CloudFlare防爬蟲，程式碼目前會出現Error Code: "403"，~~沒救了~~ 努力解決中
+---
 此程式碼使用 Dcard API 做文章資料撈取以及使用開源中文斷詞模組 jieba
 將撈取的文章內容做簡單視覺化
 
